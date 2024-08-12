@@ -77,6 +77,10 @@ button:active {
     opacity: 0.6;
 }
 
+#color {
+    color: aqua;
+}
+
 /* Section */
 section {
     display: flex;
